@@ -2,7 +2,6 @@
 - 👀 I’m interested in play games
 - 🌱 I’m currently learning Chemistry
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 3300130973cxy@gmail.com
 
 <!---
 Alphria/Alphria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
