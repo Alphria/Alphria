@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1ng
+- 👋 Hi, I’m Shing
 - 👀 I’m interested in play games
 - 🌱 I’m currently learning Chemistry
 - 💞️ I’m looking to collaborate on ...
